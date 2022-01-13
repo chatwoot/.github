@@ -1,4 +1,4 @@
-<a href="https://www.chatwoot.com/?utm_source=github"><img src="../images/poster.png" width="100%" alt="Chatwoot: Open-source, self-hosted customer engagement platform, opensource alternative to Intercom, Zendesk">
+<a href="https://www.chatwoot.com/?utm_source=github"><img src="https://raw.githubusercontent.com/chatwoot/.github/ec1ad8fb0e944a74b9659e283ac2843c3b5d9a9b/images/poster.png" width="100%" alt="Chatwoot: Open-source, self-hosted customer engagement platform, opensource alternative to Intercom, Zendesk">
 </a>
 
 <h3 align="center">
